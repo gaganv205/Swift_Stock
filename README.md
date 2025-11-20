@@ -44,6 +44,6 @@ This integrated approach speeds up order fulfilment, reduces costs, and supports
 
 ## Run the Streamlit Application
 - Use the following command:
-  streamlit run frontend.py
+  `streamlit run frontend.py`
 - Streamlit will automatically open the app in your browser at:
-  http://localhost:8501
+  `http://localhost:8501`
