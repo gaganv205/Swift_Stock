@@ -38,7 +38,7 @@ This integrated approach speeds up order fulfilment, reduces costs, and supports
 - Install MySQL Server (if not installed).
 - Create a database (example: warehouse_db).
 - Run the SQL script:
-- mysql -u root -p warehouse_db < final_commands.sql
+  `mysql -u root -p warehouse_db < final_commands.sql`
 
 ---
 
